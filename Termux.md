@@ -1,5 +1,5 @@
 Обновляем пакеты в Termux:
-pkg update && pkg upgrade
+'pkg update && pkg upgrade'
 Устанавливаем proot-distro:
 pkg install proot-distro
 Устанавливаем Debian:
